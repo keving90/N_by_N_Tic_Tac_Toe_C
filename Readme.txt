@@ -1,0 +1,3 @@
+This program creates an N-by-N tic-tac-toe board and prompts two users to play the game. A player wins by placing their symbol (X or O) N times in a row. This can be done in any row, column, or major diagonal. The game board is printed to an output file after each player makes a move. The game board is also shown in the console, along with the prompt for each user. The current setting for N is 4. It can be edited within the “Preprocessor directives” section of the code. This program writes to an output file that must be provided. This repository has a sample output file.
+
+This program was written for the Advanced C Programming course with UCSC Extension.
